@@ -117,6 +117,7 @@ phishguard.py --version
 
 
 ## 📷 Screenshot
+![Image](https://github.com/user-attachments/assets/c6c95302-2b09-4ade-b57e-f5f411e0498e)
 
 > **Instructions:** Upload your actual screenshots into the repository at `assets/screenshots/` with the filenames below, or attach them here in the issue/PR. After you upload, the badges and images will render automatically on GitHub.
 
@@ -125,14 +126,6 @@ phishguard.py --version
 * `main-interface.png`  — Tampilan utama
 * `scan-results.png`   — Contoh hasil scanning
 * `batch-processing.png` — Proses batch
-
-**Markdown sample to embed screenshots (already applied in README):**
-
-```markdown
-![Image](https://github.com/user-attachments/assets/c6c95302-2b09-4ade-b57e-f5f411e0498e)
-
-> Jika Anda ingin saya langsung memasukkan screenshot yang Anda upload ke README, silakan unggah tiga file gambar dengan nama di atas atau beri tahu nama file yang ingin dipakai — saya akan update README agar menautkan ke gambar tersebut.
-
 
 ## 🛠️ Detail Teknis
 
@@ -203,7 +196,7 @@ Project ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk de
 **Support & Contact**
 
 * Telegram: [https://t.me/Cylneee](https://t.me/Cylneee)
-* Website: `phishguardid.netlify.app` 
+* Website: `https://phishguardid.netlify.app` 
 
 > ⚠️ **Disclaimer:** Tools ini hanya untuk tujuan edukasi dan pengujian keamanan (pentesting) pada sistem yang Anda miliki atau dengan izin pemilik. Penggunaan lain menjadi tanggung jawab pengguna.
 
